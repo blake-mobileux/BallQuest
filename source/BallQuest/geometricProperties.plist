@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>specularExponents</key>
+	<dict>
+		<key>Ball_B
+</key>
+		<integer>350</integer>
+		<key>Ball_A</key>
+		<integer>350</integer>
+		<key>Maze_Surfa</key>
+		<integer>32</integer>
+		<key>boardParts2</key>
+		<integer>32</integer>
+		<key>boardParts1</key>
+		<integer>32</integer>
+		<key>Floor.001</key>
+		<integer>80</integer>
+		<key>Maze.001</key>
+		<integer>32</integer>
+	</dict>
+</dict>
+</plist>
